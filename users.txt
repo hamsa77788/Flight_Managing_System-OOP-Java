@@ -1,0 +1,8 @@
+
+
+C001,ali99,pass123,Ali Hassan,ali@gmail.com,01111111111,true,Customer
+C002,mona22,pass456,Mona Adel,mona@gmail.com,01222222222,true,Customer
+A001,agent007,secret77,Khaled Amin,khaled@agent.com,01555555555,true,Agent
+A002,agent008,topmmm9,Hossam Fathy,hossam@agent.com,01666666666,true,Agent
+AD001,admin1,admin88pass,Laila Mohamed,laila@admin.com,01333333333,true,Administrator
+AD002,admin2,admin99key,Nadia Ibrahim,nadia@admin.com,01444444444,true,Administrator
